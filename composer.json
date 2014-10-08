@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.0.*",
-        "kyaris/composer": "~1.0"
+        "kyaris/composer-plugins": "dev-master"
     },
     "autoload": {
         "psr-4": {
