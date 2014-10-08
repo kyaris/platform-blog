@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kyaris\\Users\\": "src/"
+            "Kyaris\\Blog\\": "src/"
         }
     },
     "extra": {
