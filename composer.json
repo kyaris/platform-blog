@@ -1,0 +1,24 @@
+{
+    "name": "kyaris/platform-blog",
+    "type": "kyaris-extension"
+    "description": "Extension for managing a simple blog",
+    "authors": [
+        {
+            "name": "Daniel Berry",
+            "email": "danielberrytn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kyaris\\Users\\": "src/"
+        }
+    },
+    "extra": {
+        "component": "extension"
+    },
+    "minimum-stability": "dev"
+}
