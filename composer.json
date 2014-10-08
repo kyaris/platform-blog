@@ -1,6 +1,6 @@
 {
     "name": "kyaris/platform-blog",
-    "type": "kyaris-extension"
+    "type": "kyaris-extension",
     "description": "Extension for managing a simple blog",
     "authors": [
         {
